@@ -19,3 +19,6 @@ score.
 
 # Team Presentation
 You can view the presentation via this [link](https://spark.adobe.com/page/gf0qnybSmQvfc/)
+
+# 2MP Competition
+You can view the competition via this [link](https://padlet.com/nlee95/posterC202)
